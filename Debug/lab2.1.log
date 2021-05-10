@@ -1,0 +1,4 @@
+﻿  intRange.cpp
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab2.1\lab2.1\intRange.cpp(28,41): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab2.1\lab2.1\intRange.cpp(29,42): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  lab2.1.vcxproj -> C:\Users\denys\Desktop\IK-11\Denys Tsybko\2 СЕМЕСТР\OOP\lab2.1\Debug\lab2.1.exe
